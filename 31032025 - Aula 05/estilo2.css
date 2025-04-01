@@ -1,0 +1,21 @@
+body{
+	background: white;
+}
+#cabecalho-1{
+	color:red;
+}
+.texto-azul{
+	color:blue;	
+}
+#fonte-maior{
+	font-size: 200px;
+}
+.fundo-vermelho{
+	background:red;
+}
+#fundo-azul{
+	background:blue;
+}
+#fundo-vermelho2{
+	background:red;
+}
